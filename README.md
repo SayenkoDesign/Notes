@@ -11,3 +11,7 @@ Notes created during internship
 2. Slack
 3. GitHub
 4. Jira
+
+## Design process improvements
+1. Guide has wrong color codes
+2. Guide should include margin and padding values. I.E large padding: 32px, medium padding: 16px
